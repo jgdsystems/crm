@@ -1,0 +1,9 @@
+Detalhes do projeto:
+Projeto em .Net Framework 4.0 com WebForms
+
+Ambiente de desenvolvimento: 
+Visual Studio 2017 Express
+mysql-installer-community-5.7.18.1
+mysql-workbench-community-6.3.9-winx64
+mysql-connector-net-5.0.9.0
+Observação: Todos os softwares acima são gratuitos.
